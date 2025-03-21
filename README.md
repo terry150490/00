@@ -1,4 +1,4 @@
-<img src="qrcode.jpg" width="100" Height="100"  />
+<img src="qr.png" width="100" Height="100"  />
 
 
 

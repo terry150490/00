@@ -10,4 +10,9 @@
 | 4  | 任職公司    | 國立高雄科技大學|
 
 觀看影片二
-<a herf="https://www.youtube.com/watch?v=5rpVogaxPiU" target="_black">
+<a herf="https://www.youtube.com/watch?v=5rpVogaxPiU" target="_black"></a><br>
+<a alt="高雄智慧城市" width="400" hgight="250" border="10"/></a>
+<br>影片取自Youtube
+
+<br><br><br>
+ 

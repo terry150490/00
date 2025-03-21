@@ -8,3 +8,6 @@
 | 2   | 姓名    | 陳智群|
 | 3   | 職稱     | 學生|
 | 4  | 任職公司    | 國立高雄科技大學|
+
+觀看影片二
+<a herf="https://www.youtube.com/watch?v=5rpVogaxPiU" target="_black">

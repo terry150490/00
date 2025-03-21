@@ -11,6 +11,7 @@
 
 觀看影片二
 <a href="https://www.youtube.com/watch?v=5rpVogaxPiU" target="_blank">高雄智慧城市</a><br>
+<img src="https://i.ytimg.com/vi/5rpVogaxPiU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACLI7i9bcMShB_ZalXa0QOsYMO-Q">
 <a alt="高雄智慧城市" width="400" hgight="250" border="10"/></a>
 <br>影片取自Youtube
 

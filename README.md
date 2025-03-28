@@ -6,8 +6,8 @@
 |----------|----------|----------|
 | 1    | 圖片    | <img src="CAT.jfif" width="100" Height="100"  />|
 | 2   | 姓名    | 陳智群|
-| 3   | 職稱     | 學生|
-| 4  | 任職公司    | 國立高雄科技大學|
+| 3   | 職稱     | 技術客服|
+| 4  | 任職公司    | 全科資訊有限公司|
 
 觀看影片二
 <a href="https://www.youtube.com/watch?v=5rpVogaxPiU" target="_blank">高雄智慧城市</a><br>
@@ -16,4 +16,11 @@
 <br>影片取自Youtube
 
 <br><br><br>
- 
+
+
+ <details>
+ <summary>
+外面
+ </summary>
+ 裡面的東西
+ </details>

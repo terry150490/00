@@ -10,8 +10,8 @@
 | 4  | 任職公司    | 全科資訊有限公司|
 
 觀看影片二
-<a href="https://www.youtube.com/watch?v=5rpVogaxPiU" target="_blank">高雄智慧城市</a><br>
-<img src="https://i.ytimg.com/vi/5rpVogaxPiU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACLI7i9bcMShB_ZalXa0QOsYMO-Q">
+<a href="https://www.youtube.com/watch?v=35YRwpSUPG8" target="_blank">非常好音樂</a><br>
+<img src="![image](https://github.com/user-attachments/assets/37fbe8d6-86a2-44f0-a145-bd19af046fad)">
 <a alt="高雄智慧城市" width="400" hgight="250" border="10"/></a>
 <br>影片取自Youtube
 
@@ -22,5 +22,5 @@
  <summary>
 外面
  </summary>
- 裡面的東西
+ 裡面
  </details>
